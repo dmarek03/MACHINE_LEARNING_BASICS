@@ -24,6 +24,9 @@ seaborn = "*"
 shap = "^0.47.0"
 numpy = "2.1"
 notebook = "^7.3.3"
+pynndescent = "^0.5.13"
+torch = "^2.6.0"
+sentence-transformers = "^4.0.1"
 
 
 
