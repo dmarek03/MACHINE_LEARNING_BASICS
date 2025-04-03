@@ -6,7 +6,7 @@ authors = [
     {name = "Dominik Marek (dmarek03)",email = "domarek@student.agh.edu.pl"}
 ]
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11, < 3.14"
 
 dynamic = ["dependencies"]
 
@@ -27,6 +27,7 @@ notebook = "^7.3.3"
 pynndescent = "^0.5.13"
 torch = "^2.6.0"
 sentence-transformers = "^4.0.1"
+scikit-fingerprints = "^1.15.0"
 
 
 
