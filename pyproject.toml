@@ -30,6 +30,10 @@ scikit-fingerprints = "^1.15.0"
 torch = {version = "^2.5.1", source = "pytorch"}
 torchvision = {version = "^0.20.1", source = "pytorch"}
 torchaudio = {version = "^2.5.1", source = "pytorch"}
+imblearn = "^0.0"
+pyod = "^2.0.5"
+optuna = "^4.3.0"
+lightgbm = "^4.6.0"
 
 
 
