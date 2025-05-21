@@ -34,6 +34,7 @@ imblearn = "^0.0"
 pyod = "^2.0.5"
 optuna = "^4.3.0"
 lightgbm = "^4.6.0"
+xgboost = "^3.0.1"
 
 
 
