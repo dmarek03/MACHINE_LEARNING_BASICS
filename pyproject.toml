@@ -35,6 +35,10 @@ pyod = "^2.0.5"
 optuna = "^4.3.0"
 lightgbm = "^4.6.0"
 xgboost = "^3.0.1"
+plotly = "^6.1.2"
+fast-langdetect = "^0.3.2"
+umap = "^0.1.1"
+umap-learn = "^0.5.7"
 
 
 
